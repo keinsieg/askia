@@ -1,2 +1,2 @@
 # askia
-Watch global events — wars, protests, climate, AI, sports, disasters, markets, and more — stream through animated ASCII waves. No GUI. No sound. Just signal.
+Askia is a minimalist, real-time terminal app that visualizes global events — wars, protests, climate shifts, AI breakthroughs, sports, disasters, markets, and more 
